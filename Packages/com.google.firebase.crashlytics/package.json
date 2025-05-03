@@ -18,5 +18,12 @@
   "unity": "2020.1",
   "dependencies": {
     "com.google.firebase.app": "12.4.1"
-  }
+  },
+  "samples": [
+    {
+      "displayName": "Firebase Crashlytics Crash and Logs",
+      "description": "A sample scene with FirebaseApp initialization script, and how to log custom errors and send game crashes to Crashlytics cloud dashboard",
+      "path": "Samples~/FirebaseCrashlyticsSample"
+    }
+  ]
 }
