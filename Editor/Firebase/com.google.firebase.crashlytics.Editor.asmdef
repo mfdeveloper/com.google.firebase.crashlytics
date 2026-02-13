@@ -1,0 +1,16 @@
+{
+    "name": "com.google.firebase.crashlytics.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:3f0d7219c065e144bacbbeb882289d97"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
